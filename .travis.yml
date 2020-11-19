@@ -26,5 +26,5 @@ deploy:
   provider: heroku
   strategy: api
   api_key: 
-    secure: HEROKU_API_KEY
+    secure: ceef8e1d-6ed2-4d39-a255-a6f2874f1d95
   app: devopslab-myhelloworld
